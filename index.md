@@ -2,4 +2,5 @@
 
 ## Processing Projects
 
-### Calcutlator 
+### Calculator 
+OOP Graphical Calculator built in Processing 4
