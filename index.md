@@ -22,5 +22,5 @@ Space Game built in Processing 4
 
 EtchASketch built in Processing 4
 
-![Running EtchASketch]()
+![Running EtchASketch](https://github.com/lillamorrow/pmprogrammingportfolio/blob/main/images/EtchASketch.png?raw=true)
 
